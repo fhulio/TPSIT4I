@@ -1,6 +1,6 @@
 package it.edu.issgubbio.fcfs;
 
-public class Sjn {
+public class RoundRobin {
 	
 
 
@@ -28,6 +28,7 @@ public class Sjn {
 			arrivo[x]=x;
 		}
 		
+//		---------------------------------------------
 		int ultimo = esecuzione.length-1;
 
 		for(int superficie=0;superficie<=ultimo-1;superficie=superficie+1){
@@ -48,6 +49,8 @@ public class Sjn {
 				}
 			}
 		}
+//		---------------------------------------------
+
 		
 
 		for(int y = 0; y<4; y++) {
