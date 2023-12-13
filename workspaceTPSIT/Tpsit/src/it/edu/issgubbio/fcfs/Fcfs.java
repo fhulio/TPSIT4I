@@ -9,7 +9,7 @@ public static void main(String[] args ) {
 	int []tServizio=new int [4];
 	double []tAttesa=new double [4];
 	double media=0;
-	
+	//Test git
 	processo[0]="P0";
 	processo[1]="P1";
 	processo[2]="P2";
