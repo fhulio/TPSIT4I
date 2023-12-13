@@ -420,7 +420,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_N7dN8G2nEe6VFPil4KKynQ" elementId="org.eclipse.ui.editorss" selectedElement="_N7dN8W2nEe6VFPil4KKynQ">
-      <children xsi:type="basic:PartStack" xmi:id="_N7dN8W2nEe6VFPil4KKynQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_tTRkIIksEe6JGNtM_i7_5w">
+      <children xsi:type="basic:PartStack" xmi:id="_N7dN8W2nEe6VFPil4KKynQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_zS9t0JQxEe67VuFe_O9qYQ">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
@@ -443,12 +443,10 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_tTRkIIksEe6JGNtM_i7_5w" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Sjn.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Sjn.java&quot; partName=&quot;Sjn.java&quot; title=&quot;Sjn.java&quot; tooltip=&quot;Tpsit/src/it/edu/issgubbio/fcfs/Sjn.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Tpsit/src/it/edu/issgubbio/fcfs/Sjn.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;518&quot; selectionTopPixel=&quot;160&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Sjn.java&quot; partName=&quot;Sjn.java&quot; title=&quot;Sjn.java&quot; tooltip=&quot;Tpsit/src/it/edu/issgubbio/fcfs/Sjn.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Tpsit/src/it/edu/issgubbio/fcfs/Sjn.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;518&quot; selectionTopPixel=&quot;467&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_OYIZwJQxEe67VuFe_O9qYQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="RoundRobin.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RoundRobin.java&quot; partName=&quot;RoundRobin.java&quot; title=&quot;RoundRobin.java&quot; tooltip=&quot;Tpsit/src/it/edu/issgubbio/fcfs/RoundRobin.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Tpsit/src/it/edu/issgubbio/fcfs/RoundRobin.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;55&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
@@ -457,10 +455,12 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_zS9t0JQxEe67VuFe_O9qYQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Priorita.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Priorita.java&quot; partName=&quot;Priorita.java&quot; title=&quot;Priorita.java&quot; tooltip=&quot;Tpsit/src/it/edu/issgubbio/fcfs/Priorita.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Tpsit/src/it/edu/issgubbio/fcfs/Priorita.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;53&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Priorita.java&quot; partName=&quot;Priorita.java&quot; title=&quot;Priorita.java&quot; tooltip=&quot;Tpsit/src/it/edu/issgubbio/fcfs/Priorita.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Tpsit/src/it/edu/issgubbio/fcfs/Priorita.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2427&quot; selectionTopPixel=&quot;2320&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -698,7 +698,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_N4pxkG2nEe6VFPil4KKynQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_jVn90JQlEe67VuFe_O9qYQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_NjJcGW2nEe6VFPil4KKynQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MCcc4JmkEe6dMclHpzyGrg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_NjJcGW2nEe6VFPil4KKynQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_N4qYoG2nEe6VFPil4KKynQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -706,8 +706,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_N4qYom2nEe6VFPil4KKynQ" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_jVpL8JQlEe67VuFe_O9qYQ" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" command="_NjG_hW2nEe6VFPil4KKynQ"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_jVpzAJQlEe67VuFe_O9qYQ" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_NjINgm2nEe6VFPil4KKynQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MCeSEJmkEe6dMclHpzyGrg" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" command="_NjG_hW2nEe6VFPil4KKynQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MCeSEZmkEe6dMclHpzyGrg" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_NjINgm2nEe6VFPil4KKynQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_N4qYo22nEe6VFPil4KKynQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -740,7 +740,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_N4qYp22nEe6VFPil4KKynQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_jVqaEJQlEe67VuFe_O9qYQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_NjJbvG2nEe6VFPil4KKynQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MCe5I5mkEe6dMclHpzyGrg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_NjJbvG2nEe6VFPil4KKynQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_N4qYqG2nEe6VFPil4KKynQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1563,7 +1563,7 @@
     <bindings xmi:id="_Njpx822nEe6VFPil4KKynQ" keySequence="ALT+CR" command="_NjINq22nEe6VFPil4KKynQ"/>
   </bindingTables>
   <bindingTables xmi:id="_NkF2022nEe6VFPil4KKynQ" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_Nirhnm2nEe6VFPil4KKynQ">
-    <bindings xmi:id="_jJ8SQZQlEe67VuFe_O9qYQ" keySequence="M1+W" command="_NkF20W2nEe6VFPil4KKynQ"/>
+    <bindings xmi:id="_Lx6GgJmkEe6dMclHpzyGrg" keySequence="M1+W" command="_NkF20W2nEe6VFPil4KKynQ"/>
   </bindingTables>
   <bindingTables xmi:id="_N7ecEW2nEe6VFPil4KKynQ" bindingContext="_N7ecEG2nEe6VFPil4KKynQ"/>
   <bindingTables xmi:id="_N7ecE22nEe6VFPil4KKynQ" bindingContext="_N7ecEm2nEe6VFPil4KKynQ"/>
