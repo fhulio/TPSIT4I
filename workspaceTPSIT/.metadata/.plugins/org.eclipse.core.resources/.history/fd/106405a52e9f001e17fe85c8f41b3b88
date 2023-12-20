@@ -1,0 +1,7 @@
+package it.edu.iisgubbio.threads.esercizio;
+
+public class Principale {
+	public static void main(String[] args) {
+		System.out.println("ff");
+	}
+}

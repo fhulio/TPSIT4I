@@ -26,16 +26,13 @@ public class Conta extends Thread{
 	public Conta(int type) {
 		typeThread=type;
 	}
-	public void stopThread(int tempo) {
-		if(tempo==5) {
-			this.stop();
-		}
-	}
 	public void run(){
 		if (typeThread==0) {
 			for (int i=1; i<=10; i++) {
 				System.out.println(i);
-				this.stopThread(i);  
+				if(i==5) {
+					this.stop();
+				}
 			}
 		}else {
 			try {
