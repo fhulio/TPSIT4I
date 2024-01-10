@@ -1,6 +1,0 @@
-package it.edu.iisgubbio.threads.esercizio;
-
-public class A extends Thread{
-	
-
-}
