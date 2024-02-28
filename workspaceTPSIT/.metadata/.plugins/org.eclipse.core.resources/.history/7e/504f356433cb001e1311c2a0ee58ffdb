@@ -1,0 +1,12 @@
+package minimo.vettore;
+
+import Threads.Conteggio;
+
+public class ProvaConteggio {
+	public static void main(String args[]) {
+		Thread tic=Thread.currentThread();
+		tic.setName("Padre");
+		System.out.println("Thread "+tic);
+		ConteggioLista t1=new ConteggioLista(null, 0);
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;minimo.vettore.Conteggio&apos; to &apos;ConteggioLista&apos;&#x0A;- Original project: &apos;Tpsit&apos;&#x0A;- Original element: &apos;minimo.vettore.Conteggio&apos;&#x0A;- Renamed element: &apos;minimo.vettore.ConteggioLista&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Conteggio&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;minimo.vettore{Conteggio.java[Conteggio" matchStrategy="1" name="ConteggioLista" qualified="false" references="true" similarDeclarations="false" stamp="1707912430752" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,38 @@
+package minimo.vettore;
+
+import java.util.Random;
+
+public class ConteggioLista {
+	int [] vettore;
+	int nThread;
+	int n=1;
+	ConteggioLista(int []vettore, int nThread){
+		this.vettore=vettore.clone();
+		this.nThread=nThread;
+	}
+	public int[] genera(int numero) {
+		int [] vettore=new int[10];
+		Random rand=new Random();
+		for(int i=0;i<vettore.length;i++) {
+			
+		}
+		return vettore;
+	}
+	public void aggiungoThread() {
+		
+	}
+	
+	public void run() {
+		int minimo= Integer.MAX_VALUE;
+		
+		int lungo=vettore.length/nThread;
+		for(int i=0; i<lungo;i++) {
+			System.out.println("t"+n+" "+i);
+			if(minimo>vettore[i]) {
+				minimo=vettore[i];
+			}
+		
+		}
+	}
+	
+}

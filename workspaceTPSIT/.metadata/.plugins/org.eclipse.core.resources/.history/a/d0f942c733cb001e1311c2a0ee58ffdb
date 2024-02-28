@@ -1,0 +1,31 @@
+package minimo.vettore;
+
+import java.util.Random;
+
+public class ConteggioLista {
+	int [] vettore;
+	int inizio;
+	int fine;
+	int minimo=vettore[0];
+	ConteggioLista(int []vettore, int inizio, int fine){
+		this.vettore=vettore.clone();
+		this.inizio=inizio;
+		this.fine=fine;
+	}
+	
+	public void run() {
+		
+		for(int i=inizio; i<fine;i++) {
+			if(vettore[i]<minimo) {
+				minimo=vettore[i];
+			}
+		}
+		
+			}
+	public int getMinimo() {
+		return minimo;
+	}
+		
+		
+	}
+	
